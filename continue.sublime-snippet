@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[// CONTINUE HERE: $1]]></content>
+    <tabTrigger>continue</tabTrigger>
+    <scope>source.js</scope>
+    <description>Continue Comment</description>
+</snippet>
